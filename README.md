@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-<h2> Technologies That I know and use</h>
+<h2> Technologies That I know and use</h2>
 
-<div>
-<h3>Programming Languages:</h3>
+<h3>Programming Languages: </h3>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="images/java.png" alt="java" width="40" height="40"/>
