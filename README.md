@@ -26,6 +26,7 @@
 <img src="images/html.png" alt="html5" width="40" height="40"/>
 <img src="images/css.png" alt="css3" width="40" height="40"/>
 <img src="images/bootstrap.png" alt="bootstrap" width="40" height="35"/>
+<img src="images/tailwind.svg" alt="bootstrap" width="40" height="35"/>
 <img src="images/react.png" alt="react" width="40" height="35"/>
 <img src="images/node.svg" alt="nodejs" width="40" height="40"/>
 <img src="images/flask.png" alt="flask" width="40" height="40"/>
