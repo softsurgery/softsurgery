@@ -28,6 +28,7 @@
 <img src="images/bootstrap.png" alt="Bootstrap" width="40" height="35"/>
 <img src="images/tailwind.svg" alt="Tailwind" width="40" height="35"/>
 <img src="images/react.png" alt="React" width="40" height="35"/>
+<img src="images/nextjs.webp" alt="Electron.js" width="35" height="35"/>
 <img src="images/electron.png" alt="Electron.js" width="40" height="35"/>
 <img src="images/node.svg" alt="Node.js" width="40" height="40"/>
 <img src="images/flask.png" alt="Flask" width="40" height="40"/>
@@ -52,11 +53,12 @@
 <img src="images/intellij.png" alt="IntelliJ" width="40" height="40"/>
 <img src="images/android.svg" alt="Android Studio" width="40" height="40"/>
 <img src="images/figma.svg" alt="Figma" width="40" height="40"/>
+<img src="images/moqups.png" alt="Figma" width="40" height="40"/>
 <img src="images/postman.svg" alt="Postman" width="45" height="45"/>
 <img src="images/ps.svg" alt="Photoshop" width="40" height="40"/>
 <img src="images/ai.svg" alt="Illustrator" width="40" height="40"/>
 
-<!-- <h3>Others:</h3>
+<!-- <h3>Other:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/> -->
 
