@@ -1,3 +1,15 @@
+<style>
+    .container{
+        display: flex;
+    }
+
+    .item{
+        margin: 0.2em;
+        width: 40px;
+        height: 40px;
+    }
+</style>
+
 <header>
 <h1>Hi 👋, I'm Houssem Eddine Chibouni</h1>
 <h6>A Passionate a  Developer in Tunisia</h6>
@@ -5,62 +17,76 @@
 
 <div align="center">
 <h2>Get in touch</h2>
-<p>
-<a href="https://www.linkedin.com/in/houssemeddine-chibouni-940a10230/" target="_blank"><img src="images/linkedin.png" alt="softsurgery" height="40" width="40" /></a>
+<div class="container">
 
-<a href="https://twitter.com/softsurgery" target="_blank"><img align="center" src="images/x.png" alt="softsurgery" height="40" width="40" style="" /></a>
-</p>
+<a class="item" href="https://www.linkedin.com/in/houssemeddine-chibouni-940a10230/" target="_blank">
+<img src="images/linkedin.png" alt="softsurgery"  />
+</a>
+
+<a class="item" href="https://twitter.com/softsurgery" target="_blank">
+<img src="images/x.png" alt="softsurgery" />
+</a>
+
 </div>
 
-<div align="left">
-<h2> Technologies That I know and use</h2>
+</div>
+
+<div >
+<h2 align="center"> Technologies That I know and use</h2>
 <h3>Programming Languages</h3>
-<img src="images/c.svg" alt="C Language" width="40" height="40"/>
-<img src="images/python.svg" alt="Python" width="40" height="40"/>
-<img src="images/java.png" alt="Java" width="40" height="40"/>
-<img src="images/javascript.png" alt="Javascript" width="40" height="40"/>
-<img src="images/typescript.png" alt="Typescript" width="40" height="40"/>
-<img src="images/kotlin.png" alt="Kotlin" width="40" height="40"/>
+<div class="container">
+<img class="item" src="images/c.svg" alt="C Language" />
+<img class="item" src="images/python.svg" alt="Python" />
+<img class="item" src="images/java.png" alt="Java" />
+<img class="item" src="images/javascript.png" alt="Javascript" />
+<img class="item" src="images/typescript.png" alt="Typescript" />
+<img class="item" src="images/kotlin.png" alt="Kotlin" />
+</div>
 
 <h3>Development Technologies</h3>
-<img src="images/html.png" alt="HTML5" width="40" height="40"/>
-<img src="images/css.png" alt="CSS3" width="40" height="40"/>
-<img src="images/bootstrap.png" alt="Bootstrap" width="40" height="35"/>
-<img src="images/tailwind.svg" alt="Tailwind" width="40" height="35"/>
-<img src="images/react.png" alt="React" width="40" height="35"/>
-<img src="images/nextjs.webp" alt="Electron.js" width="35" height="35"/>
-<img src="images/electron.png" alt="Electron.js" width="40" height="35"/>
-<img src="images/angular.svg" alt="Angular" width="45" height="45"/>
-<img src="images/node.svg" alt="Node.js" width="40" height="40"/>
-<img src="images/flask.png" alt="Flask" width="40" height="40"/>
-<img src="images/django.svg" alt="Django" width="40" height="40"/>
-<img src="images/spring.png" alt="Spring Boot" width="40" height="40"/>
-<img src="images/php.png" alt="PHP" width="45" height="45"/>
+<div class="container">
+<img class="item" src="images/html.png" alt="HTML5" />
+<img class="item" src="images/css.png" alt="CSS3" />
+<img class="item" src="images/bootstrap.png" alt="Bootstrap" />
+<img class="item" src="images/tailwind.svg" alt="Tailwind" />
+<img class="item" src="images/react.png" alt="React" />
+<img class="item" src="images/nextjs.png" alt="Electron.js" />
+<img class="item" src="images/electron.png" alt="Electron.js" />
+<img class="item" src="images/angular.png" alt="Angular" />
+<img class="item" src="images/node.svg" alt="Node.js" />
+<img class="item" src="images/flask.png" alt="Flask" />
+<img class="item" src="images/django.svg" alt="Django" />
+<img class="item" src="images/spring.png" alt="Spring Boot" />
+<img class="item" src="images/php.png" alt="PHP" />
+</div>
+
 <h3>Databases</h3>
-<img src="images/mysql.svg" alt="MySQL" width="40" height="40"/>
-<img src="images/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="images/sqlite.svg" alt="Sqlite" width="40" height="40"/>
-<img src="images/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-<img src="images/oracle.svg" alt="OracleDB" width="40" height="40"/>
+<div class="container">
+<img class="item"src="images/mysql.svg" alt="MySQL" />
+<img class="item"src="images/postgres.svg" alt="PostgreSQL" />
+<img class="item"src="images/sqlite.svg" alt="Sqlite" />
+<img class="item"src="images/mongodb.svg" alt="MongoDB" />
+<img class="item"src="images/oracle.svg" alt="OracleDB" />
+</div>
 
 <h3>Devops</h3>
-<img src="images/git.svg" alt="Git" width="40" height="40"/>
-<img src="images/docker.svg" alt="Docker" width="40" height="40"/>
-<img src="images/firebase.svg" alt="Firebase" width="40" height="40"/>
+<div class="container">
+<img class="item" src="images/git.svg" alt="Git" />
+<img class="item" src="images/docker.svg" alt="Docker" />
+<img class="item" src="images/firebase.svg" alt="Firebase" />
+</div>
 
 <h3> Softaware & IDEs</h3>
-<img src="images/vs.png" alt="VSCode" width="40" height="40"/>
-<img src="images/intellij.png" alt="IntelliJ" width="40" height="40"/>
-<img src="images/android.svg" alt="Android Studio" width="40" height="40"/>
-<img src="images/figma.svg" alt="Figma" width="40" height="40"/>
-<img src="images/moqups.png" alt="Figma" width="40" height="40"/>
-<img src="images/postman.svg" alt="Postman" width="45" height="45"/>
-<img src="images/ps.svg" alt="Photoshop" width="40" height="40"/>
-<img src="images/ai.svg" alt="Illustrator" width="40" height="40"/>
-
-<!-- <h3>Other:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/> -->
+<div class="container">
+<img class="item" src="images/vs.png" alt="VSCode" />
+<img class="item" src="images/intellij.png" alt="IntelliJ" />
+<img class="item" src="images/android.svg" alt="Android Studio" />
+<img class="item" src="images/figma.svg" alt="Figma" />
+<img class="item" src="images/moqups.png" alt="Figma" />
+<img class="item" src="images/postman.svg" alt="Postman" />
+<img class="item" src="images/ps.svg" alt="Photoshop" />
+<img class="item" src="images/ai.svg" alt="Illustrator" />
+</div>
 
 </div>
 
