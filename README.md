@@ -30,12 +30,12 @@
 <img src="images/react.png" alt="React" width="40" height="35"/>
 <img src="images/nextjs.webp" alt="Electron.js" width="35" height="35"/>
 <img src="images/electron.png" alt="Electron.js" width="40" height="35"/>
+<img src="images/angular.svg" alt="Angular" width="45" height="45"/>
 <img src="images/node.svg" alt="Node.js" width="40" height="40"/>
 <img src="images/flask.png" alt="Flask" width="40" height="40"/>
 <img src="images/django.svg" alt="Django" width="40" height="40"/>
 <img src="images/spring.png" alt="Spring Boot" width="40" height="40"/>
 <img src="images/php.png" alt="PHP" width="45" height="45"/>
-
 <h3>Databases</h3>
 <img src="images/mysql.svg" alt="MySQL" width="40" height="40"/>
 <img src="images/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
