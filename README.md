@@ -21,6 +21,8 @@
 <h3>Programming Languages</h3>
 <div style="display: flex;">
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/c.svg" alt="C Language" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/bash.svg" alt="Bash" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/pascal.webp" alt="Pascal" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/python.svg" alt="Python" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/java.png" alt="Java" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/javascript.png" alt="Javascript" />
@@ -32,17 +34,26 @@
 <div style="display: flex;">
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/html.png" alt="HTML5" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/css.png" alt="CSS3" />
-    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/bootstrap.png" alt="Bootstrap" />
-    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/tailwind.svg" alt="Tailwind" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/react.png" alt="React" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/nextjs.png" alt="Electron.js" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/electron.png" alt="Electron.js" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/angular.png" alt="Angular" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/node.svg" alt="Node.js" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/NestJS.png" alt="NestJS" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/flask.png" alt="Flask" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/django.svg" alt="Django" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/spring.png" alt="Spring Boot" />
     <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/php.png" alt="PHP" />
+</div>
+<div style="display: flex; margin-top: 10px">
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/bootstrap.png" alt="Bootstrap" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/mui.png" alt="Material UI" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/tailwind.svg" alt="Tailwind" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/prisma.png" alt="Prisma" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/strapi.png" alt="Strapi" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/mobx.svg" alt="MobX" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/jquery.png" alt="JQuery" />
+    <img style="margin: 0.2em; width: 40px; height: 40px;" src="images/qt.svg" alt="Qt" />
 </div>
 
  <h3>Databases</h3>
